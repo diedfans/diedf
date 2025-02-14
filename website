@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sutejo Ardian - Content Creator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+        .content-section {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sutejo Ardian</h1>
+        <p>Content Creator</p>
+    </header>
+
+    <div class="container">
+        <section class="profile-section">
+            <img src="https://via.placeholder.com/150" alt="Foto Sutejo Ardian" class="profile-img">
+            <h2>Selamat Datang di Halaman Web Pribadi Saya!</h2>
+            <p>Halo! Nama saya Sutejo Ardian, seorang content creator dengan hobi bermain game yang menghasilkan uang. Saya senang berbagi tips, trik, dan strategi tentang cara bermain game secara profesional dan mendapatkan keuntungan darinya.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Hobi dan Minat</h2>
+            <p>Salah satu hobi utama saya adalah bermain game yang tidak hanya menyenangkan tetapi juga bisa menghasilkan uang. Saya sering bermain berbagai jenis game, mulai dari game mobile hingga game PC, dan saya selalu mencari cara untuk memaksimalkan pendapatan dari setiap game yang saya mainkan.</p>
+            <p>Saya juga aktif membagikan pengalaman saya melalui berbagai platform media sosial dan kanal YouTube, di mana saya memberikan panduan dan tutorial bagi mereka yang ingin mengikuti jejak saya.</p>
+        </section>
+
+        <section class="content-section">
+            <h2>Kontak</h2>
+            <p>Jika Anda tertarik untuk bekerja sama atau sekadar ingin berbicara lebih lanjut tentang game, jangan ragu untuk menghubungi saya melalui email di <a href="mailto:sutejoardian@example.com">sutejoardian@example.com</a>.</p>
+        </section>
+    </div>
+</body>
+</html>
